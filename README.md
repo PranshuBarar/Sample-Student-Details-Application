@@ -27,5 +27,17 @@ b-MySQL Database
 ## Now you can do testing using postman or whatever you prefer:
 Just paste the following URL with Post Method in your preferred API Testing Tool
 
+```bash
+http://localhost:8080/student/add
+```
+with this in the body:
+
+```bash
+{
+    "studentName": "JyotiBarar",
+    "std": 7,
+    "enrollNo": 5
+}
+```
 
 
