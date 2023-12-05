@@ -21,6 +21,7 @@ docker compose up
 ```
 ## Now there are two containers running on your system:
 a-Spring Boot Application
+
 b-MySQL Database
 
 ## Now you can do testing using postman or whatever you prefer:
