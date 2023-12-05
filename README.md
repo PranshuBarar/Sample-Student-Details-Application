@@ -34,9 +34,9 @@ with this in the body:
 
 ```bash
 {
-    "studentName": "JyotiBarar",
-    "std": 7,
-    "enrollNo": 5
+    "studentName": "<student-name-here>",
+    "std": <random-number-here-as-standard>,
+    "enrollNo": <random-number-here as enrollNo>
 }
 ```
 
