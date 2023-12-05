@@ -1,14 +1,16 @@
 # Sample-Student-Details-Application
 This is a sample student details application repo referenced in a blog on hashnode. In this repo I have shared how we can develop a spring boot application with mysql as database and integrate it with AWS Services.
 
-Clone this repository to your personal computer using clone feature above
+## Instructions for running this Project on your local system:
 
-Open it with Intellij (or the IDE you prefer)
+-- Clone this repository to your personal computer using clone feature above
 
-As this is a containerized project, you do not need to setup environments on your personal computer
-You just required docker installed on your system. 
+-- Open it with Intellij (or the IDE you prefer)
 
-Go inside the project folder ('demo' folder) and Run the following command to start your project containers:
+-- As this is a containerized project, you do not need to setup environments on your personal computer
+You just required docker installed on your system. Install docker engine if its not already there.
+
+-- Go inside the project folder ('demo' folder) and Run the following command to start your project containers:
 
 ```bash
 docker build -t demo-student-application .
