@@ -30,16 +30,12 @@ docker compose up
 Just paste the following URL with Post Method in your preferred API Testing Tool
 
 ```bash
-http://localhost:8080/student/add
+http://localhost:8080/student
 ```
-with this in the body:
+You will get following message:
 
 ```bash
-{
-    "studentName": "<student-name-here>",
-    "std": <random-number-here-as-standard>,
-    "enrollNo": <random-number-here as enrollNo>
-}
+Hi, How are you!!
 ```
 
 
