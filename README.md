@@ -10,7 +10,7 @@ This is a sample student details application repo referenced in a blog on hashno
 * As this is a containerized project, you do not need to setup environments on your personal computer
 You just required docker installed on your system. Install docker engine if its not already there.
 
-** Go inside the project folder ('demo' folder) and Run the following command to start your project containers:
+* Go inside the project folder ('demo' folder) and Run the following command to start your project containers:
 
 ```bash
 docker build -t demo-student-application .
