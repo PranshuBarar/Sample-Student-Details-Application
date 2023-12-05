@@ -11,7 +11,7 @@ You just required docker installed on your system.
 Go inside the project folder ('demo' folder) and Run the following command to start your project containers:
 
 ```bash
-docker build -t docker build -t demo-student-application .
+docker build -t demo-student-application .
 ```
 This above command will build the image using Dockerfile.
 After that run this command:
