@@ -13,6 +13,8 @@ Go inside the project folder ('demo' folder) and Run the following command to st
 ```bash
 docker build -t demo-student-application .
 ```
+You can change the name of the image "demo-student-application" with something else of your choice but then you will have to do the respective changes in docker-compose.yml file also, otherwise the project will not work. (Actually docker compose given below will not run at all)
+
 This above command will build the image using Dockerfile.
 After that run this command:
 
