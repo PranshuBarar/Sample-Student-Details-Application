@@ -22,9 +22,9 @@ After that run this command:
 docker compose up
 ```
 ## Now there are two containers running on your system:
-a-Spring Boot Application
+- Spring Boot Application
 
-b-MySQL Database
+- MySQL Database
 
 ## Now you can do testing using postman or whatever you prefer:
 Just paste the following URL with Post Method in your preferred API Testing Tool
